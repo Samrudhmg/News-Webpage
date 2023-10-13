@@ -1,0 +1,111 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Russian mercenaries bid farewell to Prigozhin's logistics chief - Reuters",
+    "description": "The funeral of Russian mercenary chief Yevgeny Prigozhin, who was killed in a plane crash last week, was held privately at a cemetery on the outskirts of his hometown St Petersburg, his press service said on Tuesday.",
+    "url": "https://www.reuters.com/world/europe/russias-putin-wont-attend-prigozhin-funeral-kremlin-2023-08-29/",
+    "urlToImage": "https://www.reuters.com/resizer/IanR7lnnalmPUhs7jdrYYamH-0I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DVNDKYPXYRIURKX4QOOYWVPE7Y.jpg",
+    "publishedAt": "2023-08-29T14:32:36Z",
+    "content": "ST PETERSBURG, Russia, Aug 29 (Reuters) - The funeral of Russian mercenary chief Yevgeny Prigozhin, who was killed in a plane crash last week, was held privately at a cemetery on the outskirts of his… [+1843 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CNN",
+    "title": "Doctoral student arrested on murder charge in fatal shooting of UNC faculty member, source says - CNN",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOC8yOS91cy91bmMtY2hhcGVsLWhpbGwtY2FtcHVzLXNob290aW5nLXR1ZXNkYXkvaW5kZXguaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-29T14:22:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": "Mark Schlabach",
+    "title": "Brooks Koepka among Zach Johnson's picks for U.S. Ryder Cup team - ESPN - ESPN",
+    "description": "Brooks Koepka was among Zach Johnson's six captain's picks for the United States Ryder Cup team.",
+    "url": "https://www.espn.com/golf/story/_/id/38282894/brooks-koepka-zach-johnson-picks-us-ryder-cup-team",
+    "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0829%2Fr1217184_1296x729_16%2D9.jpg",
+    "publishedAt": "2023-08-29T14:03:00Z",
+    "content": "A LIV Golf League captain will represent the United States when it takes on Europe in next month's Ryder Cup in Italy.\r\nFive-time major champion Brooks Koepka was among U.S. team captain Zach Johnson… [+4158 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Reuters",
+    "title": "Intensifying Idalia threatens Florida's Gulf Coast with storm surges - Reuters",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Vudmlyb25tZW50L2lkYWxpYS1zZXQtc2xhbS1mbG9yaWRhcy1ndWxmLWNvYXN0LXdlZG5lc2RheS1tYWpvci1odXJyaWNhbmUtMjAyMy0wOC0yOS_SAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-29T14:00:48Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "NFL roster cuts tracker 2023: Full list of team-by-team moves, cuts for all 32 clubs before deadline Tuesday - CBS Sports",
+    "description": "Teams have until 4 p.m. ET on Tuesday, Aug. 29 to trim their rosters down to 53",
+    "url": "https://www.cbssports.com/nfl/news/nfl-roster-cuts-tracker-2023-full-list-of-team-by-team-moves-cuts-for-all-32-clubs-before-deadline-tuesday/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/28/928af304-b763-4baf-a7c3-3411595d91c6/thumbnail/1200x675/27c3bef58d40c54dd77a837afd726b6e/gettyimages-1643009012.jpg",
+    "publishedAt": "2023-08-29T13:57:00Z",
+    "content": "The 2023 NFL season is just around the corner. Before then, however, teams must finalize their rosters, whittling them down from their offseason allowance of 90 players. \r\nUnlike last season, when te… [+2657 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Belleville News-Democrat"
+    },
+    "author": "Belleville News-Democrat",
+    "title": "Former Belleville resident, Althoff grad one of three Marines killed in Osprey crash - Belleville News-Democrat",
+    "description": null,
+    "url": "https://www.bnd.com/news/local/article278692879.html",
+    "urlToImage": null,
+    "publishedAt": "2023-08-29T13:55:02Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Gerrit De Vynck",
+    "title": "AI images are getting harder to spot. Google thinks it has a solution. - The Washington Post",
+    "description": "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign.",
+    "url": "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GKZGO5JHVNCWPDBLKOVCXGC7M4.jpg&w=1440",
+    "publishedAt": "2023-08-29T13:32:52Z",
+    "content": "Comment on this story\r\nComment\r\nArtificial intelligence-generated images are becoming harder to distinguish from real ones as tech companies race to improve their AI products. As the 2024 presidentia… [+7030 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Dow Jones Futures Fall Amid Key Economic Data; Nio Skids, Pinduoduo Soars On Earnings - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-economic-data-nio-stock-skids-pinduoduo-soars-on-earnings/",
+    "urlToImage": null,
+    "publishedAt": "2023-08-29T13:25:00Z",
+    "content": null
+    }
+]
+}
+    
