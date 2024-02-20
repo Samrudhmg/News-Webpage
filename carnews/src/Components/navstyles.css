@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gabarito:wght@500;600&family=Jost:wght@300&family=Mukta:wght@500&family=Newsreader:opsz@6..72&family=Nunito+Sans:opsz,wght@6..12,500&family=Poppins&family=Quicksand:wght@300;400;500;600&family=Urbanist:wght@300;700&family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gabarito:wght@500;600&family=Jost:wght@300&family=Mukta:wght@500&family=Newsreader:opsz@6..72&family=Nunito&family=Nunito+Sans:opsz,wght@6..12,500&family=Poppins&family=Quicksand:wght@300;400;500;600&family=Urbanist:wght@300;700&family=Work+Sans&display=swap');
+.navbar-brand{
+    font-size: 2.3rem;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin-left: 1.4rem;
+    margin-right: 3rem;
+    padding-top:0.5rem;
+    
+}
+.nav-link{
+    font-size: 1.1rem;
+    color: black;
+    
+}
+.nav-link:hover{
+    color: rgb(249, 243, 236);
+    
+}
+.navbar{
+    height:4.3rem ;
+    position: relative;
+    background-color: #88aed7;
+   
+}
+.btn{
+    font-family: 'Gabarito', sans-serif;
+}
